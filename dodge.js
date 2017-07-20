@@ -14,7 +14,7 @@ var C = {
     startx: 160,
     starty: 500,
     bounce: 0.2,
-    drag: 1500,
+    drag: 200,
     speed: 500
   },
   dodgeme: {
@@ -23,7 +23,7 @@ var C = {
     height: 64,
     frames: 2,
     gravity: 5000, 
-    velocity: 1100 
+    velocity: 200 
   }
 };
 
