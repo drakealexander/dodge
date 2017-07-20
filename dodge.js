@@ -8,14 +8,14 @@ var C = {
   },
   dodger: {
     image: 'assets/dodger.png',
-    width: 46,
+    width: 64,
     height: 64,
-    frames: 2,
+    frames: 7,
     startx: 160,
     starty: 500,
     bounce: 0.3,
     drag: 3000,
-    speed: 800
+    speed: 700
   },
   dodgeme: {
     image: 'assets/dodgeme.png',
