@@ -13,17 +13,17 @@ var C = {
     frames: 7,
     startx: 160,
     starty: 500,
-    bounce: 0.3,
-    drag: 3000,
-    speed: 600
+    bounce: 0.2,
+    drag: 1500,
+    speed: 500
   },
   dodgeme: {
     image: 'assets/dodgeme.png',
     width: 64,
     height: 64,
     frames: 2,
-    gravity: 5000, // set to 0 to just use velocity
-    velocity: 1100 // ignored if gravity > 0
+    gravity: 5000, 
+    velocity: 1100 
   }
 };
 
