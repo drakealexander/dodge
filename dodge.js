@@ -15,13 +15,13 @@ var C = {
     starty: 500,
     bounce: 0.3,
     drag: 3000,
-    speed: 700
+    speed: 600
   },
   dodgeme: {
     image: 'assets/dodgeme.png',
     width: 64,
     height: 64,
-    frames: 1,
+    frames: 2,
     gravity: 5000, // set to 0 to just use velocity
     velocity: 1100 // ignored if gravity > 0
   }
